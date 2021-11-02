@@ -35,8 +35,8 @@
   },
   {
     "path": "posts/2021-11-02-my-third-post/",
-    "title": "my third post",
-    "description": "A short description of the post.",
+    "title": "Ohio's Overdose Dilemma",
+    "description": "The following blog discusses the paradox of declining drug seizures and increasing overdose deaths.",
     "author": [
       {
         "name": "Nora Jones",
@@ -47,7 +47,7 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-11-02T14:49:14-04:00",
+    "last_modified": "2021-11-02T14:59:30-04:00",
     "input_file": "my-third-post.knit.md"
   }
 ]
