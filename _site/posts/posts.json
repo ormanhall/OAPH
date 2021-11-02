@@ -17,6 +17,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/2021-11-02-my-third-post/",
+    "title": "Ohio's Overdose Dilemma",
+    "description": "The following blog discusses the paradox of declining drug seizures and increasing overdose deaths.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-11-02",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-11-02T15:01:54-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to OAPH Blog",
     "description": "Welcome to our new blog, OAPH Blog. We hope you enjoy \nreading what we have to say!",
@@ -32,22 +49,5 @@
     "preview": {},
     "last_modified": "2021-11-02T11:08:52-04:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/2021-11-02-my-third-post/",
-    "title": "Ohio's Overdose Dilemma",
-    "description": "The following blog discusses the paradox of declining drug seizures and increasing overdose deaths.",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-11-02",
-    "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-11-02T15:01:54-04:00",
-    "input_file": "my-third-post.knit.md"
   }
 ]

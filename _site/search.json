@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "The Ohio Alliance for Population Health is an organization dedicated to improving the health and well-being of all Ohioans. To accomplish our mission, the Alliance seeks funding for priority health projects and produces original research focused on identifying Ohio's most pressing health challenges. ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-02T14:48:06-04:00"
+      "last_modified": "2021-11-02T15:14:29-04:00"
     },
     {
       "path": "index.html",
       "title": "OAPH Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-02T14:48:07-04:00"
+      "last_modified": "2021-11-02T15:01:54-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
