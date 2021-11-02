@@ -3,8 +3,8 @@ title: "Ohio's Overdose Dilemma"
 description: |
   The following blog discusses the paradox of declining drug seizures and increasing overdose deaths.
 author:
-  - name: Nora Jones
-    url: https://example.com/norajones
+  - name: Orman Hall
+    url: https://example.com/orman.hall
 date: 11-02-2021
 output:
   distill::distill_article:

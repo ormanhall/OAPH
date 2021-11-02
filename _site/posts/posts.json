@@ -22,16 +22,16 @@
     "description": "The following blog discusses the paradox of declining drug seizures and increasing overdose deaths.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Orman Hall",
+        "url": "https://example.com/orman.hall"
       }
     ],
     "date": "2021-11-02",
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-11-02T15:01:54-04:00",
-    "input_file": {}
+    "last_modified": "2021-11-02T15:17:17-04:00",
+    "input_file": "my-third-post.knit.md"
   },
   {
     "path": "posts/welcome/",
