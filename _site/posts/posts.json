@@ -1,20 +1,20 @@
 [
   {
     "path": "posts/2021-11-02-my-second-post/",
-    "title": "my second post",
+    "title": "Addiction in the time of Fentanyl",
     "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Orman Hall",
+        "url": "https://example.com/orman.hall"
       }
     ],
     "date": "2021-11-02",
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-11-02T12:53:11-04:00",
-    "input_file": {}
+    "last_modified": "2021-11-02T16:20:04-04:00",
+    "input_file": "my-second-post.knit.md"
   },
   {
     "path": "posts/2021-11-02-my-third-post/",
