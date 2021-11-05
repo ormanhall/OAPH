@@ -4,7 +4,7 @@ description: |
   Welcome to our new blog, OAPH Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Orman Hall 
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
